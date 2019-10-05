@@ -2,7 +2,7 @@
 
 ### Welcome!
 
-In this book you'll see a lot of examples that will help you from a variety od topics, focused around \`discord.js\`.
+In this book you'll see a lot of examples that will help you from a variety of topics, focused around \`discord.js\`.
 
 To keep with the style of the official documentation, we will be using full terms \(client and message\) for those variables.
 
